@@ -58,7 +58,7 @@ p {
     transform: translate(-1px, -1px);
 }
 
-. btn:hover {
+.btn:hover {
     color: var(--primary);
     background-color: var(--tertiary);
     transform: translate(0, 0);
